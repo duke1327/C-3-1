@@ -26,7 +26,7 @@ namespace project_3
                 }
             }
             pyramid(4);
-            pyramid(5);
+            pyramid(7);
         }
     }
 }
