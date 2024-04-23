@@ -31,7 +31,7 @@ namespace project_2
             Console.WriteLine("Total : {0, 10:D}", 123);
             Console.WriteLine("Total : {0, 5:D}", 123);
 
-            Console.WriteLine("Total : {0, -7:x}", 255);
+            Console.WriteLine("Total : {0, -7:x} {1}", 255, 265);
 
             //문자열 보간(Interpolation)
             // ① 문자열 틀 앞에 $ 기호를 붙인다.
