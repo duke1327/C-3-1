@@ -38,14 +38,14 @@ namespace project_1
             Console.WriteLine(number1); // 10*/
 
             /*int number2 = 20;
-            Console.WriteLine(number2); //20
-            Console.WriteLine(number2++); //20 -> 21
-            Console.WriteLine(number2--); //21 -> 20
-            Console.WriteLine(number2); //20
+            Console.WriteLine(number2); // 20
+            Console.WriteLine(number2++); // 20출력 -> 21
+            Console.WriteLine(number2--); // 21출력 -> 20
+            Console.WriteLine(number2); // 20
 
-            Console.WriteLine(++number2); //21
-            Console.WriteLine(--number2); //20
-            Console.WriteLine(number2); //20*/
+            Console.WriteLine(++number2); // 20 -> 21출력
+            Console.WriteLine(--number2); // 21 -> 20출력
+            Console.WriteLine(number2); // 20*/
 
             /*int number3 = 30;
             Console.WriteLine(number3);
