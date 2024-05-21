@@ -36,6 +36,17 @@ namespace project_2
             Console.WriteLine();
 
             BoxD boxD = new BoxD(-10, 10);
+            Console.WriteLine(boxD.Area());
+            boxD.Width = 10;
+            boxD.Height = 20;
+            Console.WriteLine(boxD.Area());
+            Console.WriteLine();
+
+            BoxE boxE = new BoxE(-10, 10);
+            Console.WriteLine(boxE.Area());
+            boxE.Width = 10;
+            boxE.Height = 20;
+            Console.WriteLine(boxE.Area());
         }
     }
 }
